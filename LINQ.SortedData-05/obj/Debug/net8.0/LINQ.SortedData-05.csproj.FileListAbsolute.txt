@@ -1,0 +1,15 @@
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.SortedData-05\bin\Debug\net8.0\LINQ.SortedData-05.exe
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.SortedData-05\bin\Debug\net8.0\LINQ.SortedData-05.deps.json
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.SortedData-05\bin\Debug\net8.0\LINQ.SortedData-05.runtimeconfig.json
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.SortedData-05\bin\Debug\net8.0\LINQ.SortedData-05.dll
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.SortedData-05\bin\Debug\net8.0\LINQ.SortedData-05.pdb
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.SortedData-05\obj\Debug\net8.0\LINQ.SortedData-05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.SortedData-05\obj\Debug\net8.0\LINQ.SortedData-05.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.SortedData-05\obj\Debug\net8.0\LINQ.SortedData-05.AssemblyInfo.cs
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.SortedData-05\obj\Debug\net8.0\LINQ.SortedData-05.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.SortedData-05\obj\Debug\net8.0\LINQ.SortedData-05.sourcelink.json
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.SortedData-05\obj\Debug\net8.0\LINQ.SortedData-05.dll
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.SortedData-05\obj\Debug\net8.0\refint\LINQ.SortedData-05.dll
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.SortedData-05\obj\Debug\net8.0\LINQ.SortedData-05.pdb
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.SortedData-05\obj\Debug\net8.0\LINQ.SortedData-05.genruntimeconfig.cache
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.SortedData-05\obj\Debug\net8.0\ref\LINQ.SortedData-05.dll

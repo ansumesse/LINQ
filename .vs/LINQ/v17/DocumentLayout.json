@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D353DAA3-D92D-4063-ABC5-EBC027FC4357}|LINQ.ProjectionOperations-04\\LINQ.ProjectionOperations-04.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.projectionoperations-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D353DAA3-D92D-4063-ABC5-EBC027FC4357}|LINQ.ProjectionOperations-04\\LINQ.ProjectionOperations-04.csproj|solutionrelative:linq.projectionoperations-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9358A213-0B09-4958-880B-789DDA90EEFA}|LINQ.SortedData-05\\LINQ.SortedData-05.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.sorteddata-05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9358A213-0B09-4958-880B-789DDA90EEFA}|LINQ.SortedData-05\\LINQ.SortedData-05.csproj|solutionrelative:linq.sorteddata-05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.functionalprogramming-02\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|solutionrelative:linq.functionalprogramming-02\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9358A213-0B09-4958-880B-789DDA90EEFA}|LINQ.SortedData-05\\LINQ.SortedData-05.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.sorteddata-05\\extensionfunctional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9358A213-0B09-4958-880B-789DDA90EEFA}|LINQ.SortedData-05\\LINQ.SortedData-05.csproj|solutionrelative:linq.sorteddata-05\\extensionfunctional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.functionalprogramming-02\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|solutionrelative:linq.functionalprogramming-02\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9358A213-0B09-4958-880B-789DDA90EEFA}|LINQ.SortedData-05\\LINQ.SortedData-05.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.sorteddata-05\\customorderemployeeno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9358A213-0B09-4958-880B-789DDA90EEFA}|LINQ.SortedData-05\\LINQ.SortedData-05.csproj|solutionrelative:linq.sorteddata-05\\customorderemployeeno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.functionalprogramming-02\\extensionfunctional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|solutionrelative:linq.functionalprogramming-02\\extensionfunctional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9358A213-0B09-4958-880B-789DDA90EEFA}|LINQ.SortedData-05\\LINQ.SortedData-05.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.sorteddata-05\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9358A213-0B09-4958-880B-789DDA90EEFA}|LINQ.SortedData-05\\LINQ.SortedData-05.csproj|solutionrelative:linq.sorteddata-05\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9358A213-0B09-4958-880B-789DDA90EEFA}|LINQ.SortedData-05\\LINQ.SortedData-05.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.sorteddata-05\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9358A213-0B09-4958-880B-789DDA90EEFA}|LINQ.SortedData-05\\LINQ.SortedData-05.csproj|solutionrelative:linq.sorteddata-05\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.ProjectionOperations-04\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ.ProjectionOperations-04\\Program.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.ProjectionOperations-04\\Program.cs",
-              "RelativeToolTip": "LINQ.ProjectionOperations-04\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBwAAAAXAAAA",
+              "DocumentIndex": 2,
+              "Title": "CustomOrderEmployeeNo.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.SortedData-05\\CustomOrderEmployeeNo.cs",
+              "RelativeDocumentMoniker": "LINQ.SortedData-05\\CustomOrderEmployeeNo.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.SortedData-05\\CustomOrderEmployeeNo.cs",
+              "RelativeToolTip": "LINQ.SortedData-05\\CustomOrderEmployeeNo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T18:27:06.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ExtensionFunctional.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\ExtensionFunctional.cs",
-              "RelativeDocumentMoniker": "LINQ.FunctionalProgramming-02\\ExtensionFunctional.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\ExtensionFunctional.cs",
-              "RelativeToolTip": "LINQ.FunctionalProgramming-02\\ExtensionFunctional.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAABbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T00:06:47.299Z",
+              "WhenOpened": "2024-08-04T22:58:50.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\Employee.cs",
-              "RelativeDocumentMoniker": "LINQ.FunctionalProgramming-02\\Employee.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\Employee.cs",
-              "RelativeToolTip": "LINQ.FunctionalProgramming-02\\Employee.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAswBgAAAArAAAA",
+              "Title": "ExtensionFunctional.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.SortedData-05\\ExtensionFunctional.cs",
+              "RelativeDocumentMoniker": "LINQ.SortedData-05\\ExtensionFunctional.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.SortedData-05\\ExtensionFunctional.cs",
+              "RelativeToolTip": "LINQ.SortedData-05\\ExtensionFunctional.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAtwB4AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T00:05:07.331Z",
+              "WhenOpened": "2024-08-04T21:55:37.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\Repository.cs",
-              "RelativeDocumentMoniker": "LINQ.FunctionalProgramming-02\\Repository.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\Repository.cs",
-              "RelativeToolTip": "LINQ.FunctionalProgramming-02\\Repository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.SortedData-05\\Employee.cs",
+              "RelativeDocumentMoniker": "LINQ.SortedData-05\\Employee.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.SortedData-05\\Employee.cs",
+              "RelativeToolTip": "LINQ.SortedData-05\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T00:05:06.193Z",
+              "WhenOpened": "2024-08-04T21:45:44.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.SortedData-05\\Repository.cs",
+              "RelativeDocumentMoniker": "LINQ.SortedData-05\\Repository.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.SortedData-05\\Repository.cs",
+              "RelativeToolTip": "LINQ.SortedData-05\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:45:35.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.SortedData-05\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ.SortedData-05\\Program.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.SortedData-05\\Program.cs",
+              "RelativeToolTip": "LINQ.SortedData-05\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAArwA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:29:45.86Z",
               "EditorCaption": ""
             }
           ]
