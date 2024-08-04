@@ -12,3 +12,4 @@ D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.FunctionalProgramming-02\obj\Debug\net8.0
 D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.FunctionalProgramming-02\obj\Debug\net8.0\LINQ.FunctionalProgramming-02.pdb
 D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.FunctionalProgramming-02\obj\Debug\net8.0\LINQ.FunctionalProgramming-02.genruntimeconfig.cache
 D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.FunctionalProgramming-02\obj\Debug\net8.0\ref\LINQ.FunctionalProgramming-02.dll
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.FunctionalProgramming-02\obj\Debug\net8.0\LINQ.FunctionalProgramming-02.sourcelink.json

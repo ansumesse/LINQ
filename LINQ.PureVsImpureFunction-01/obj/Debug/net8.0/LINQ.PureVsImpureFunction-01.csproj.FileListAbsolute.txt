@@ -1,0 +1,15 @@
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.PureVsImpureFunction-01\bin\Debug\net8.0\LINQ.PureVsImpureFunction-01.exe
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.PureVsImpureFunction-01\bin\Debug\net8.0\LINQ.PureVsImpureFunction-01.deps.json
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.PureVsImpureFunction-01\bin\Debug\net8.0\LINQ.PureVsImpureFunction-01.runtimeconfig.json
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.PureVsImpureFunction-01\bin\Debug\net8.0\LINQ.PureVsImpureFunction-01.dll
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.PureVsImpureFunction-01\bin\Debug\net8.0\LINQ.PureVsImpureFunction-01.pdb
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.PureVsImpureFunction-01\obj\Debug\net8.0\LINQ.PureVsImpureFunction-01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.PureVsImpureFunction-01\obj\Debug\net8.0\LINQ.PureVsImpureFunction-01.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.PureVsImpureFunction-01\obj\Debug\net8.0\LINQ.PureVsImpureFunction-01.AssemblyInfo.cs
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.PureVsImpureFunction-01\obj\Debug\net8.0\LINQ.PureVsImpureFunction-01.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.PureVsImpureFunction-01\obj\Debug\net8.0\LINQ.PureVsImpureFunction-01.sourcelink.json
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.PureVsImpureFunction-01\obj\Debug\net8.0\LINQ.PureVsImpureFunction-01.dll
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.PureVsImpureFunction-01\obj\Debug\net8.0\refint\LINQ.PureVsImpureFunction-01.dll
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.PureVsImpureFunction-01\obj\Debug\net8.0\LINQ.PureVsImpureFunction-01.pdb
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.PureVsImpureFunction-01\obj\Debug\net8.0\LINQ.PureVsImpureFunction-01.genruntimeconfig.cache
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.PureVsImpureFunction-01\obj\Debug\net8.0\ref\LINQ.PureVsImpureFunction-01.dll
