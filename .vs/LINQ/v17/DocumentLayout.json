@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.CoreOfLINQ-03\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LINQ.CoreOfLINQ-03\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.functionalprogramming-02\\extensionfunctional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|solutionrelative:linq.functionalprogramming-02\\extensionfunctional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.functionalprogramming-02\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|solutionrelative:linq.functionalprogramming-02\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.functionalprogramming-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|solutionrelative:linq.functionalprogramming-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.functionalprogramming-02\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|solutionrelative:linq.functionalprogramming-02\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.functionalprogramming-02\\extnensionprocedural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|solutionrelative:linq.functionalprogramming-02\\extnensionprocedural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.functionalprogramming-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|solutionrelative:linq.functionalprogramming-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.functionalprogramming-02\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|solutionrelative:linq.functionalprogramming-02\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,50 +30,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ExtnensionProcedural.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\ExtnensionProcedural.cs",
-              "RelativeDocumentMoniker": "LINQ.FunctionalProgramming-02\\ExtnensionProcedural.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\ExtnensionProcedural.cs",
-              "RelativeToolTip": "LINQ.FunctionalProgramming-02\\ExtnensionProcedural.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T01:02:53.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExtensionFunctional.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\ExtensionFunctional.cs",
-              "RelativeDocumentMoniker": "LINQ.FunctionalProgramming-02\\ExtensionFunctional.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\ExtensionFunctional.cs",
-              "RelativeToolTip": "LINQ.FunctionalProgramming-02\\ExtensionFunctional.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAswAsAAAB1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T00:06:47.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ.FunctionalProgramming-02\\Program.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\Program.cs",
-              "RelativeToolTip": "LINQ.FunctionalProgramming-02\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAwwB8AAAAtAAAA",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.CoreOfLINQ-03\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ.CoreOfLINQ-03\\Program.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.CoreOfLINQ-03\\Program.cs",
+              "RelativeToolTip": "LINQ.CoreOfLINQ-03\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T00:02:57.61Z",
+              "WhenOpened": "2024-08-04T13:16:44.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ExtensionFunctional.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\ExtensionFunctional.cs",
+              "RelativeDocumentMoniker": "LINQ.FunctionalProgramming-02\\ExtensionFunctional.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\ExtensionFunctional.cs",
+              "RelativeToolTip": "LINQ.FunctionalProgramming-02\\ExtensionFunctional.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T00:06:47.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ.FunctionalProgramming-02\\Program.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\Program.cs",
+              "RelativeToolTip": "LINQ.FunctionalProgramming-02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T00:02:57.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\Employee.cs",
               "RelativeDocumentMoniker": "LINQ.FunctionalProgramming-02\\Employee.cs",
@@ -81,12 +79,11 @@
               "RelativeToolTip": "LINQ.FunctionalProgramming-02\\Employee.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAkwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T00:05:07.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T00:05:07.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Repository.cs",
               "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\Repository.cs",
               "RelativeDocumentMoniker": "LINQ.FunctionalProgramming-02\\Repository.cs",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "LINQ.FunctionalProgramming-02\\Repository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T00:05:06.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T00:05:06.193Z"
             }
           ]
         }
