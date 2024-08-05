@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LINQ.GroupingData-08/1.0.0": {
+        "dependencies": {
+          "LINQ.FunctionalProgramming-02": "1.0.0"
+        },
+        "runtime": {
+          "LINQ.GroupingData-08.dll": {}
+        }
+      },
+      "LINQ.FunctionalProgramming-02/1.0.0": {
+        "runtime": {
+          "LINQ.FunctionalProgramming-02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ.GroupingData-08/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LINQ.FunctionalProgramming-02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

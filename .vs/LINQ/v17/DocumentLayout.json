@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0C6FE7E-52DF-4A91-B3BB-C017FC81F87D}|LINQ.Quantifires-07\\LINQ.Quantifires-07.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.quantifires-07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C6FE7E-52DF-4A91-B3BB-C017FC81F87D}|LINQ.Quantifires-07\\LINQ.Quantifires-07.csproj|solutionrelative:linq.quantifires-07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97381A75-D66E-45B9-9E24-F575DCE75462}|LINQ.GroupingData-08\\LINQ.GroupingData-08.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.groupingdata-08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97381A75-D66E-45B9-9E24-F575DCE75462}|LINQ.GroupingData-08\\LINQ.GroupingData-08.csproj|solutionrelative:linq.groupingdata-08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}|LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.datapartitioning-06\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}|LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj|solutionrelative:linq.datapartitioning-06\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97381A75-D66E-45B9-9E24-F575DCE75462}|LINQ.GroupingData-08\\LINQ.GroupingData-08.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.groupingdata-08\\linq.groupingdata-08.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97381A75-D66E-45B9-9E24-F575DCE75462}|LINQ.GroupingData-08\\LINQ.GroupingData-08.csproj|solutionrelative:linq.groupingdata-08\\linq.groupingdata-08.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,26 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\Repository.cs",
-              "RelativeDocumentMoniker": "LINQ.DataPartitioning-06\\Repository.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\Repository.cs",
-              "RelativeToolTip": "LINQ.DataPartitioning-06\\Repository.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T18:14:34.02Z"
+              "Title": "LINQ.GroupingData-08.csproj",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.GroupingData-08\\LINQ.GroupingData-08.csproj",
+              "RelativeDocumentMoniker": "LINQ.GroupingData-08\\LINQ.GroupingData-08.csproj",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.GroupingData-08\\LINQ.GroupingData-08.csproj",
+              "RelativeToolTip": "LINQ.GroupingData-08\\LINQ.GroupingData-08.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T19:47:03.877Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.Quantifires-07\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ.Quantifires-07\\Program.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.Quantifires-07\\Program.cs",
-              "RelativeToolTip": "LINQ.Quantifires-07\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAArwBAAAAATAAAA",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.GroupingData-08\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ.GroupingData-08\\Program.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.GroupingData-08\\Program.cs",
+              "RelativeToolTip": "LINQ.GroupingData-08\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T17:09:44.611Z",
+              "WhenOpened": "2024-08-05T19:46:31.932Z",
               "EditorCaption": ""
             }
           ]
