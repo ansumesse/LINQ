@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}|LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.datapartitioning-06\\extensionfunctional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}|LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj|solutionrelative:linq.datapartitioning-06\\extensionfunctional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}|LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.datapartitioning-06\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}|LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj|solutionrelative:linq.datapartitioning-06\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0C6FE7E-52DF-4A91-B3BB-C017FC81F87D}|LINQ.Quantifires-07\\LINQ.Quantifires-07.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.quantifires-07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C6FE7E-52DF-4A91-B3BB-C017FC81F87D}|LINQ.Quantifires-07\\LINQ.Quantifires-07.csproj|solutionrelative:linq.quantifires-07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}|LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.datapartitioning-06\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}|LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj|solutionrelative:linq.datapartitioning-06\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}|LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.datapartitioning-06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}|LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj|solutionrelative:linq.datapartitioning-06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ExtensionFunctional.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\ExtensionFunctional.cs",
-              "RelativeDocumentMoniker": "LINQ.DataPartitioning-06\\ExtensionFunctional.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\ExtensionFunctional.cs",
-              "RelativeToolTip": "LINQ.DataPartitioning-06\\ExtensionFunctional.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T17:06:27.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\Employee.cs",
-              "RelativeDocumentMoniker": "LINQ.DataPartitioning-06\\Employee.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\Employee.cs",
-              "RelativeToolTip": "LINQ.DataPartitioning-06\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T17:06:25.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Repository.cs",
               "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\Repository.cs",
               "RelativeDocumentMoniker": "LINQ.DataPartitioning-06\\Repository.cs",
               "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\Repository.cs",
               "RelativeToolTip": "LINQ.DataPartitioning-06\\Repository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T17:06:23.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T18:14:34.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ.DataPartitioning-06\\Program.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\Program.cs",
-              "RelativeToolTip": "LINQ.DataPartitioning-06\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.Quantifires-07\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ.Quantifires-07\\Program.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.Quantifires-07\\Program.cs",
+              "RelativeToolTip": "LINQ.Quantifires-07\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAArwBAAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T17:06:19.876Z",
+              "WhenOpened": "2024-08-05T17:09:44.611Z",
               "EditorCaption": ""
             }
           ]

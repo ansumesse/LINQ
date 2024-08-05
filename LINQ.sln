@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ.ProjectionOperations-0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ.SortedData-05", "LINQ.SortedData-05\LINQ.SortedData-05.csproj", "{9358A213-0B09-4958-880B-789DDA90EEFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ.DataPartitioning-06", "LINQ.DataPartitioning-06\LINQ.DataPartitioning-06.csproj", "{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ.DataPartitioning-06", "LINQ.DataPartitioning-06\LINQ.DataPartitioning-06.csproj", "{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ.Quantifires-07", "LINQ.Quantifires-07\LINQ.Quantifires-07.csproj", "{C0C6FE7E-52DF-4A91-B3BB-C017FC81F87D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0C6FE7E-52DF-4A91-B3BB-C017FC81F87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C6FE7E-52DF-4A91-B3BB-C017FC81F87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C6FE7E-52DF-4A91-B3BB-C017FC81F87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C6FE7E-52DF-4A91-B3BB-C017FC81F87D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
