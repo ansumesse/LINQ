@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ.ProjectionOperations-0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ.SortedData-05", "LINQ.SortedData-05\LINQ.SortedData-05.csproj", "{9358A213-0B09-4958-880B-789DDA90EEFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ.DataPartitioning-06", "LINQ.DataPartitioning\LINQ.DataPartitioning-06.csproj", "{C52C30CC-ACB5-46F7-BF4A-4C54D56ED874}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9358A213-0B09-4958-880B-789DDA90EEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9358A213-0B09-4958-880B-789DDA90EEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9358A213-0B09-4958-880B-789DDA90EEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C52C30CC-ACB5-46F7-BF4A-4C54D56ED874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C52C30CC-ACB5-46F7-BF4A-4C54D56ED874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C52C30CC-ACB5-46F7-BF4A-4C54D56ED874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C52C30CC-ACB5-46F7-BF4A-4C54D56ED874}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

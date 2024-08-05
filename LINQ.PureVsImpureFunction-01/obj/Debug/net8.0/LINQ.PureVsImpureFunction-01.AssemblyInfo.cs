@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQ.PureVsImpureFunction-01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d5cecd2b1ff295cd136109ef6d4fade5c334f09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+967c0b1a0762aee151eeab69f5aff35cb575aae0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQ.PureVsImpureFunction-01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQ.PureVsImpureFunction-01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
