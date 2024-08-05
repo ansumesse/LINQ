@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning\\LINQ.DataPartitioning-06.csproj": {}
+    "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj": {}
   },
   "projects": {
-    "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning\\LINQ.DataPartitioning-06.csproj": {
+    "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning\\LINQ.DataPartitioning-06.csproj",
+        "projectUniqueName": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj",
         "projectName": "LINQ.DataPartitioning-06",
-        "projectPath": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning\\LINQ.DataPartitioning-06.csproj",
+        "projectPath": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj",
         "packagesPath": "C:\\Users\\manas\\.nuget\\packages\\",
-        "outputPath": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning\\obj\\",
+        "outputPath": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manas\\AppData\\Roaming\\NuGet\\NuGet.Config",

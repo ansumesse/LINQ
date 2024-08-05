@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C52C30CC-ACB5-46F7-BF4A-4C54D56ED874}|LINQ.DataPartitioning\\LINQ.DataPartitioning-06.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.datapartitioning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C52C30CC-ACB5-46F7-BF4A-4C54D56ED874}|LINQ.DataPartitioning\\LINQ.DataPartitioning-06.csproj|solutionrelative:linq.datapartitioning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}|LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.datapartitioning-06\\extensionfunctional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}|LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj|solutionrelative:linq.datapartitioning-06\\extensionfunctional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C52C30CC-ACB5-46F7-BF4A-4C54D56ED874}|LINQ.DataPartitioning\\LINQ.DataPartitioning-06.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.datapartitioning\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C52C30CC-ACB5-46F7-BF4A-4C54D56ED874}|LINQ.DataPartitioning\\LINQ.DataPartitioning-06.csproj|solutionrelative:linq.datapartitioning\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}|LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.datapartitioning-06\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}|LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj|solutionrelative:linq.datapartitioning-06\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C52C30CC-ACB5-46F7-BF4A-4C54D56ED874}|LINQ.DataPartitioning\\LINQ.DataPartitioning-06.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.datapartitioning\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C52C30CC-ACB5-46F7-BF4A-4C54D56ED874}|LINQ.DataPartitioning\\LINQ.DataPartitioning-06.csproj|solutionrelative:linq.datapartitioning\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}|LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.datapartitioning-06\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}|LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj|solutionrelative:linq.datapartitioning-06\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C52C30CC-ACB5-46F7-BF4A-4C54D56ED874}|LINQ.DataPartitioning\\LINQ.DataPartitioning-06.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.datapartitioning\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C52C30CC-ACB5-46F7-BF4A-4C54D56ED874}|LINQ.DataPartitioning\\LINQ.DataPartitioning-06.csproj|solutionrelative:linq.datapartitioning\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C52C30CC-ACB5-46F7-BF4A-4C54D56ED874}|LINQ.DataPartitioning\\LINQ.DataPartitioning-06.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.datapartitioning\\extensionfunctional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C52C30CC-ACB5-46F7-BF4A-4C54D56ED874}|LINQ.DataPartitioning\\LINQ.DataPartitioning-06.csproj|solutionrelative:linq.datapartitioning\\extensionfunctional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}|LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.datapartitioning-06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F2C494-C30F-4FFB-B32C-DDB3B3CEE53A}|LINQ.DataPartitioning-06\\LINQ.DataPartitioning-06.csproj|solutionrelative:linq.datapartitioning-06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pagination.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning\\Pagination.cs",
-              "RelativeDocumentMoniker": "LINQ.DataPartitioning\\Pagination.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning\\Pagination.cs",
-              "RelativeToolTip": "LINQ.DataPartitioning\\Pagination.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "DocumentIndex": 0,
+              "Title": "ExtensionFunctional.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\ExtensionFunctional.cs",
+              "RelativeDocumentMoniker": "LINQ.DataPartitioning-06\\ExtensionFunctional.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\ExtensionFunctional.cs",
+              "RelativeToolTip": "LINQ.DataPartitioning-06\\ExtensionFunctional.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T00:59:36.083Z"
+              "WhenOpened": "2024-08-05T17:06:27.023Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ.DataPartitioning\\Program.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning\\Program.cs",
-              "RelativeToolTip": "LINQ.DataPartitioning\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\Employee.cs",
+              "RelativeDocumentMoniker": "LINQ.DataPartitioning-06\\Employee.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\Employee.cs",
+              "RelativeToolTip": "LINQ.DataPartitioning-06\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T00:32:48.416Z",
+              "WhenOpened": "2024-08-05T17:06:25.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\Repository.cs",
+              "RelativeDocumentMoniker": "LINQ.DataPartitioning-06\\Repository.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\Repository.cs",
+              "RelativeToolTip": "LINQ.DataPartitioning-06\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:06:23.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning\\Repository.cs",
-              "RelativeDocumentMoniker": "LINQ.DataPartitioning\\Repository.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning\\Repository.cs",
-              "RelativeToolTip": "LINQ.DataPartitioning\\Repository.cs",
-              "ViewState": "AQIAAN8AAAAAAAAAAAAQwAQAAAAiAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ.DataPartitioning-06\\Program.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning-06\\Program.cs",
+              "RelativeToolTip": "LINQ.DataPartitioning-06\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T00:37:17.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ExtensionFunctional.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning\\ExtensionFunctional.cs",
-              "RelativeDocumentMoniker": "LINQ.DataPartitioning\\ExtensionFunctional.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning\\ExtensionFunctional.cs",
-              "RelativeToolTip": "LINQ.DataPartitioning\\ExtensionFunctional.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T00:37:12.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning\\Employee.cs",
-              "RelativeDocumentMoniker": "LINQ.DataPartitioning\\Employee.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.DataPartitioning\\Employee.cs",
-              "RelativeToolTip": "LINQ.DataPartitioning\\Employee.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAUAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T00:37:12.003Z"
+              "WhenOpened": "2024-08-05T17:06:19.876Z",
+              "EditorCaption": ""
             }
           ]
         }
