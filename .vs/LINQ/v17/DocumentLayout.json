@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97381A75-D66E-45B9-9E24-F575DCE75462}|LINQ.GroupingData-08\\LINQ.GroupingData-08.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.groupingdata-08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97381A75-D66E-45B9-9E24-F575DCE75462}|LINQ.GroupingData-08\\LINQ.GroupingData-08.csproj|solutionrelative:linq.groupingdata-08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D118DC0C-69CE-498F-98B7-1371771C6C59}|LINQ.JoinOperation-09\\LINQ.JoinOperation-09.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.joinoperation-09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D118DC0C-69CE-498F-98B7-1371771C6C59}|LINQ.JoinOperation-09\\LINQ.JoinOperation-09.csproj|solutionrelative:linq.joinoperation-09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97381A75-D66E-45B9-9E24-F575DCE75462}|LINQ.GroupingData-08\\LINQ.GroupingData-08.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.groupingdata-08\\linq.groupingdata-08.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{97381A75-D66E-45B9-9E24-F575DCE75462}|LINQ.GroupingData-08\\LINQ.GroupingData-08.csproj|solutionrelative:linq.groupingdata-08\\linq.groupingdata-08.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D118DC0C-69CE-498F-98B7-1371771C6C59}|LINQ.JoinOperation-09\\LINQ.JoinOperation-09.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.joinoperation-09\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D118DC0C-69CE-498F-98B7-1371771C6C59}|LINQ.JoinOperation-09\\LINQ.JoinOperation-09.csproj|solutionrelative:linq.joinoperation-09\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D118DC0C-69CE-498F-98B7-1371771C6C59}|LINQ.JoinOperation-09\\LINQ.JoinOperation-09.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.joinoperation-09\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D118DC0C-69CE-498F-98B7-1371771C6C59}|LINQ.JoinOperation-09\\LINQ.JoinOperation-09.csproj|solutionrelative:linq.joinoperation-09\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D118DC0C-69CE-498F-98B7-1371771C6C59}|LINQ.JoinOperation-09\\LINQ.JoinOperation-09.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.joinoperation-09\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D118DC0C-69CE-498F-98B7-1371771C6C59}|LINQ.JoinOperation-09\\LINQ.JoinOperation-09.csproj|solutionrelative:linq.joinoperation-09\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D118DC0C-69CE-498F-98B7-1371771C6C59}|LINQ.JoinOperation-09\\LINQ.JoinOperation-09.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.joinoperation-09\\extensionfunctional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D118DC0C-69CE-498F-98B7-1371771C6C59}|LINQ.JoinOperation-09\\LINQ.JoinOperation-09.csproj|solutionrelative:linq.joinoperation-09\\extensionfunctional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D118DC0C-69CE-498F-98B7-1371771C6C59}|LINQ.JoinOperation-09\\LINQ.JoinOperation-09.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.joinoperation-09\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D118DC0C-69CE-498F-98B7-1371771C6C59}|LINQ.JoinOperation-09\\LINQ.JoinOperation-09.csproj|solutionrelative:linq.joinoperation-09\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D118DC0C-69CE-498F-98B7-1371771C6C59}|LINQ.JoinOperation-09\\LINQ.JoinOperation-09.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.joinoperation-09\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D118DC0C-69CE-498F-98B7-1371771C6C59}|LINQ.JoinOperation-09\\LINQ.JoinOperation-09.csproj|solutionrelative:linq.joinoperation-09\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GroupDto.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.JoinOperation-09\\GroupDto.cs",
+              "RelativeDocumentMoniker": "LINQ.JoinOperation-09\\GroupDto.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.JoinOperation-09\\GroupDto.cs",
+              "RelativeToolTip": "LINQ.JoinOperation-09\\GroupDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T00:55:17.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.JoinOperation-09\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "LINQ.JoinOperation-09\\EmployeeDto.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.JoinOperation-09\\EmployeeDto.cs",
+              "RelativeToolTip": "LINQ.JoinOperation-09\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T00:36:49.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.JoinOperation-09\\Repository.cs",
+              "RelativeDocumentMoniker": "LINQ.JoinOperation-09\\Repository.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.JoinOperation-09\\Repository.cs",
+              "RelativeToolTip": "LINQ.JoinOperation-09\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T00:27:35.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExtensionFunctional.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.JoinOperation-09\\ExtensionFunctional.cs",
+              "RelativeDocumentMoniker": "LINQ.JoinOperation-09\\ExtensionFunctional.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.JoinOperation-09\\ExtensionFunctional.cs",
+              "RelativeToolTip": "LINQ.JoinOperation-09\\ExtensionFunctional.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T00:27:34.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LINQ.GroupingData-08.csproj",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.GroupingData-08\\LINQ.GroupingData-08.csproj",
-              "RelativeDocumentMoniker": "LINQ.GroupingData-08\\LINQ.GroupingData-08.csproj",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.GroupingData-08\\LINQ.GroupingData-08.csproj",
-              "RelativeToolTip": "LINQ.GroupingData-08\\LINQ.GroupingData-08.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-05T19:47:03.877Z"
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.JoinOperation-09\\Employee.cs",
+              "RelativeDocumentMoniker": "LINQ.JoinOperation-09\\Employee.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.JoinOperation-09\\Employee.cs",
+              "RelativeToolTip": "LINQ.JoinOperation-09\\Employee.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwCQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T00:27:32.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.JoinOperation-09\\Department.cs",
+              "RelativeDocumentMoniker": "LINQ.JoinOperation-09\\Department.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.JoinOperation-09\\Department.cs",
+              "RelativeToolTip": "LINQ.JoinOperation-09\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T00:27:31.684Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.GroupingData-08\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ.GroupingData-08\\Program.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.GroupingData-08\\Program.cs",
-              "RelativeToolTip": "LINQ.GroupingData-08\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABkAAAA",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.JoinOperation-09\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ.JoinOperation-09\\Program.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.JoinOperation-09\\Program.cs",
+              "RelativeToolTip": "LINQ.JoinOperation-09\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAkAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T19:46:31.932Z",
+              "WhenOpened": "2024-08-06T00:25:59.352Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.JoinOperation-09\bin\Debug\net8.0\LINQ.JoinOperation-09.exe
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.JoinOperation-09\bin\Debug\net8.0\LINQ.JoinOperation-09.deps.json
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.JoinOperation-09\bin\Debug\net8.0\LINQ.JoinOperation-09.runtimeconfig.json
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.JoinOperation-09\bin\Debug\net8.0\LINQ.JoinOperation-09.dll
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.JoinOperation-09\bin\Debug\net8.0\LINQ.JoinOperation-09.pdb
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.JoinOperation-09\obj\Debug\net8.0\LINQ.JoinOperation-09.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.JoinOperation-09\obj\Debug\net8.0\LINQ.JoinOperation-09.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.JoinOperation-09\obj\Debug\net8.0\LINQ.JoinOperation-09.AssemblyInfo.cs
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.JoinOperation-09\obj\Debug\net8.0\LINQ.JoinOperation-09.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.JoinOperation-09\obj\Debug\net8.0\LINQ.JoinOperation-09.sourcelink.json
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.JoinOperation-09\obj\Debug\net8.0\LINQ.JoinOperation-09.dll
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.JoinOperation-09\obj\Debug\net8.0\refint\LINQ.JoinOperation-09.dll
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.JoinOperation-09\obj\Debug\net8.0\LINQ.JoinOperation-09.pdb
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.JoinOperation-09\obj\Debug\net8.0\LINQ.JoinOperation-09.genruntimeconfig.cache
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.JoinOperation-09\obj\Debug\net8.0\ref\LINQ.JoinOperation-09.dll
