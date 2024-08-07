@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LINQ.EqualityOperations-12/1.0.0": {
+        "dependencies": {
+          "LINQ.SortedData-05": "1.0.0"
+        },
+        "runtime": {
+          "LINQ.EqualityOperations-12.dll": {}
+        }
+      },
+      "LINQ.SortedData-05/1.0.0": {
+        "runtime": {
+          "LINQ.SortedData-05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ.EqualityOperations-12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LINQ.SortedData-05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

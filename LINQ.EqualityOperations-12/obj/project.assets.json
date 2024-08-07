@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "LINQ.SortedData-05/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LINQ.SortedData-05.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LINQ.SortedData-05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ.SortedData-05/1.0.0": {
+      "type": "project",
+      "path": "../LINQ.SortedData-05/LINQ.SortedData-05.csproj",
+      "msbuildProject": "../LINQ.SortedData-05/LINQ.SortedData-05.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "LINQ.SortedData-05 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\manas\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.EqualityOperations-12\\LINQ.EqualityOperations-12.csproj",
+      "projectName": "LINQ.EqualityOperations-12",
+      "projectPath": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.EqualityOperations-12\\LINQ.EqualityOperations-12.csproj",
+      "packagesPath": "C:\\Users\\manas\\.nuget\\packages\\",
+      "outputPath": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.EqualityOperations-12\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\manas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.SortedData-05\\LINQ.SortedData-05.csproj": {
+              "projectPath": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.SortedData-05\\LINQ.SortedData-05.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

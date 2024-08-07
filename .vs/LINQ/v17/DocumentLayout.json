@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6367CB4-E67C-453D-8112-847CFFB53EC0}|LINQ.ElementOperations-11\\LINQ.ElementOperations-11.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.elementoperations-11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6367CB4-E67C-453D-8112-847CFFB53EC0}|LINQ.ElementOperations-11\\LINQ.ElementOperations-11.csproj|solutionrelative:linq.elementoperations-11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.functionalprogramming-02\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45D0842A-1970-4D24-8A3E-6D9637527F15}|LINQ.FunctionalProgramming-02\\LINQ.FunctionalProgramming-02.csproj|solutionrelative:linq.functionalprogramming-02\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96A2083C-88F9-47D8-939B-A40FA1B9BAB6}|LINQ.Concatenation-13\\LINQ.Concatenation-13.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.concatenation-13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A2083C-88F9-47D8-939B-A40FA1B9BAB6}|LINQ.Concatenation-13\\LINQ.Concatenation-13.csproj|solutionrelative:linq.concatenation-13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\Repository.cs",
-              "RelativeDocumentMoniker": "LINQ.FunctionalProgramming-02\\Repository.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.FunctionalProgramming-02\\Repository.cs",
-              "RelativeToolTip": "LINQ.FunctionalProgramming-02\\Repository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T17:50:19.888Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.ElementOperations-11\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ.ElementOperations-11\\Program.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.ElementOperations-11\\Program.cs",
-              "RelativeToolTip": "LINQ.ElementOperations-11\\Program.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.Concatenation-13\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ.Concatenation-13\\Program.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.Concatenation-13\\Program.cs",
+              "RelativeToolTip": "LINQ.Concatenation-13\\Program.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T17:18:17.944Z",
+              "WhenOpened": "2024-08-07T19:51:24.898Z",
               "EditorCaption": ""
             }
           ]
