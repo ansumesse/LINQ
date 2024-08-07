@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQ.SortedData-05")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20f740fd3d7cc6396200c4310c1f7be8c1cbfded")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5574dd43e98ee990fbab287af9b5056ba5fa143e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQ.SortedData-05")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQ.SortedData-05")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
