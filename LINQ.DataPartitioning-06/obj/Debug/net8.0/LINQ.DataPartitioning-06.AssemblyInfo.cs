@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQ.DataPartitioning-06")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0c940328a7ff6db002accf32145aeaff9f9d8ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc16a9e81648f72dda4e4bb6e40378f754fe8d62")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQ.DataPartitioning-06")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQ.DataPartitioning-06")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

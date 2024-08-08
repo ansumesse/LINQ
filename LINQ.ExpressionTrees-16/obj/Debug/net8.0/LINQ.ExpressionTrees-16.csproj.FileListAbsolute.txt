@@ -1,0 +1,15 @@
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.ExpressionTrees-16\bin\Debug\net8.0\LINQ.ExpressionTrees-16.exe
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.ExpressionTrees-16\bin\Debug\net8.0\LINQ.ExpressionTrees-16.deps.json
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.ExpressionTrees-16\bin\Debug\net8.0\LINQ.ExpressionTrees-16.runtimeconfig.json
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.ExpressionTrees-16\bin\Debug\net8.0\LINQ.ExpressionTrees-16.dll
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.ExpressionTrees-16\bin\Debug\net8.0\LINQ.ExpressionTrees-16.pdb
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.ExpressionTrees-16\obj\Debug\net8.0\LINQ.ExpressionTrees-16.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.ExpressionTrees-16\obj\Debug\net8.0\LINQ.ExpressionTrees-16.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.ExpressionTrees-16\obj\Debug\net8.0\LINQ.ExpressionTrees-16.AssemblyInfo.cs
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.ExpressionTrees-16\obj\Debug\net8.0\LINQ.ExpressionTrees-16.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.ExpressionTrees-16\obj\Debug\net8.0\LINQ.ExpressionTrees-16.sourcelink.json
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.ExpressionTrees-16\obj\Debug\net8.0\LINQ.ExpressionTrees-16.dll
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.ExpressionTrees-16\obj\Debug\net8.0\refint\LINQ.ExpressionTrees-16.dll
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.ExpressionTrees-16\obj\Debug\net8.0\LINQ.ExpressionTrees-16.pdb
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.ExpressionTrees-16\obj\Debug\net8.0\LINQ.ExpressionTrees-16.genruntimeconfig.cache
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.ExpressionTrees-16\obj\Debug\net8.0\ref\LINQ.ExpressionTrees-16.dll
