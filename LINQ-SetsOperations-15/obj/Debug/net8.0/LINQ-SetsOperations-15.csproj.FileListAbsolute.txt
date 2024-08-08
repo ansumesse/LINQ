@@ -1,0 +1,15 @@
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ-SetsOperations-15\bin\Debug\net8.0\LINQ-SetsOperations-15.exe
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ-SetsOperations-15\bin\Debug\net8.0\LINQ-SetsOperations-15.deps.json
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ-SetsOperations-15\bin\Debug\net8.0\LINQ-SetsOperations-15.runtimeconfig.json
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ-SetsOperations-15\bin\Debug\net8.0\LINQ-SetsOperations-15.dll
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ-SetsOperations-15\bin\Debug\net8.0\LINQ-SetsOperations-15.pdb
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ-SetsOperations-15\obj\Debug\net8.0\LINQ-SetsOperations-15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ-SetsOperations-15\obj\Debug\net8.0\LINQ-SetsOperations-15.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ-SetsOperations-15\obj\Debug\net8.0\LINQ-SetsOperations-15.AssemblyInfo.cs
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ-SetsOperations-15\obj\Debug\net8.0\LINQ-SetsOperations-15.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ-SetsOperations-15\obj\Debug\net8.0\LINQ-SetsOperations-15.sourcelink.json
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ-SetsOperations-15\obj\Debug\net8.0\LINQ-SetsOperations-15.dll
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ-SetsOperations-15\obj\Debug\net8.0\refint\LINQ-SetsOperations-15.dll
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ-SetsOperations-15\obj\Debug\net8.0\LINQ-SetsOperations-15.pdb
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ-SetsOperations-15\obj\Debug\net8.0\LINQ-SetsOperations-15.genruntimeconfig.cache
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ-SetsOperations-15\obj\Debug\net8.0\ref\LINQ-SetsOperations-15.dll

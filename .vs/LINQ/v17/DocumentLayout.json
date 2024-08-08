@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2809D7DB-F948-4F7A-8DE8-C12151374D5E}|LINQ.AggregateOperations-14\\LINQ.AggregateOperations-14.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.aggregateoperations-14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2809D7DB-F948-4F7A-8DE8-C12151374D5E}|LINQ.AggregateOperations-14\\LINQ.AggregateOperations-14.csproj|solutionrelative:linq.aggregateoperations-14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0F6BA97-F443-48D1-9A49-DDC1C121F2A4}|LINQ-SetsOperations-15\\LINQ-SetsOperations-15.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq-setsoperations-15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F6BA97-F443-48D1-9A49-DDC1C121F2A4}|LINQ-SetsOperations-15\\LINQ-SetsOperations-15.csproj|solutionrelative:linq-setsoperations-15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F6BA97-F443-48D1-9A49-DDC1C121F2A4}|LINQ-SetsOperations-15\\LINQ-SetsOperations-15.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq-setsoperations-15\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F6BA97-F443-48D1-9A49-DDC1C121F2A4}|LINQ-SetsOperations-15\\LINQ-SetsOperations-15.csproj|solutionrelative:linq-setsoperations-15\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F6BA97-F443-48D1-9A49-DDC1C121F2A4}|LINQ-SetsOperations-15\\LINQ-SetsOperations-15.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq-setsoperations-15\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F6BA97-F443-48D1-9A49-DDC1C121F2A4}|LINQ-SetsOperations-15\\LINQ-SetsOperations-15.csproj|solutionrelative:linq-setsoperations-15\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Meeting.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ-SetsOperations-15\\Meeting.cs",
+              "RelativeDocumentMoniker": "LINQ-SetsOperations-15\\Meeting.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ-SetsOperations-15\\Meeting.cs",
+              "RelativeToolTip": "LINQ-SetsOperations-15\\Meeting.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAADwvzMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:59:59.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ-SetsOperations-15\\Employee.cs",
+              "RelativeDocumentMoniker": "LINQ-SetsOperations-15\\Employee.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ-SetsOperations-15\\Employee.cs",
+              "RelativeToolTip": "LINQ-SetsOperations-15\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:59:44.719Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.AggregateOperations-14\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ.AggregateOperations-14\\Program.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.AggregateOperations-14\\Program.cs",
-              "RelativeToolTip": "LINQ.AggregateOperations-14\\Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAYwBAAAAAhAAAA",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ-SetsOperations-15\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ-SetsOperations-15\\Program.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ-SetsOperations-15\\Program.cs",
+              "RelativeToolTip": "LINQ-SetsOperations-15\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T00:24:46.929Z",
+              "WhenOpened": "2024-08-08T05:59:14.217Z",
               "EditorCaption": ""
             }
           ]

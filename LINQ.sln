@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ.EqualityOperations-12"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ.Concatenation-13", "LINQ.Concatenation-13\LINQ.Concatenation-13.csproj", "{96A2083C-88F9-47D8-939B-A40FA1B9BAB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ.AggregateOperations-14", "LINQ.AggregateOperations-14\LINQ.AggregateOperations-14.csproj", "{2809D7DB-F948-4F7A-8DE8-C12151374D5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ.AggregateOperations-14", "LINQ.AggregateOperations-14\LINQ.AggregateOperations-14.csproj", "{2809D7DB-F948-4F7A-8DE8-C12151374D5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ-SetsOperations-15", "LINQ-SetsOperations-15\LINQ-SetsOperations-15.csproj", "{D0F6BA97-F443-48D1-9A49-DDC1C121F2A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{2809D7DB-F948-4F7A-8DE8-C12151374D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2809D7DB-F948-4F7A-8DE8-C12151374D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2809D7DB-F948-4F7A-8DE8-C12151374D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F6BA97-F443-48D1-9A49-DDC1C121F2A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F6BA97-F443-48D1-9A49-DDC1C121F2A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F6BA97-F443-48D1-9A49-DDC1C121F2A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F6BA97-F443-48D1-9A49-DDC1C121F2A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

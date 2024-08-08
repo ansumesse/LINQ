@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQ.ProjectionOperations-04")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78c39601982f48f7f335b04d04c39b0772cbf715")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0c940328a7ff6db002accf32145aeaff9f9d8ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQ.ProjectionOperations-04")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQ.ProjectionOperations-04")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
