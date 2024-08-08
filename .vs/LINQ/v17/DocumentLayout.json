@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96A2083C-88F9-47D8-939B-A40FA1B9BAB6}|LINQ.Concatenation-13\\LINQ.Concatenation-13.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.concatenation-13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96A2083C-88F9-47D8-939B-A40FA1B9BAB6}|LINQ.Concatenation-13\\LINQ.Concatenation-13.csproj|solutionrelative:linq.concatenation-13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2809D7DB-F948-4F7A-8DE8-C12151374D5E}|LINQ.AggregateOperations-14\\LINQ.AggregateOperations-14.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.aggregateoperations-14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2809D7DB-F948-4F7A-8DE8-C12151374D5E}|LINQ.AggregateOperations-14\\LINQ.AggregateOperations-14.csproj|solutionrelative:linq.aggregateoperations-14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.Concatenation-13\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ.Concatenation-13\\Program.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.Concatenation-13\\Program.cs",
-              "RelativeToolTip": "LINQ.Concatenation-13\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAABIAAAA",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.AggregateOperations-14\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ.AggregateOperations-14\\Program.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.AggregateOperations-14\\Program.cs",
+              "RelativeToolTip": "LINQ.AggregateOperations-14\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwBAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T19:51:24.898Z",
+              "WhenOpened": "2024-08-08T00:24:46.929Z",
               "EditorCaption": ""
             }
           ]
