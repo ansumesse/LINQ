@@ -1,0 +1,15 @@
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.CustomLINQExtenstionMethod-19\obj\Debug\net8.0\LINQ.CustomLINQExtenstionMethod-19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.CustomLINQExtenstionMethod-19\obj\Debug\net8.0\LINQ.CustomLINQExtenstionMethod-19.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.CustomLINQExtenstionMethod-19\obj\Debug\net8.0\LINQ.CustomLINQExtenstionMethod-19.AssemblyInfo.cs
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.CustomLINQExtenstionMethod-19\obj\Debug\net8.0\LINQ.CustomLINQExtenstionMethod-19.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.CustomLINQExtenstionMethod-19\obj\Debug\net8.0\LINQ.CustomLINQExtenstionMethod-19.sourcelink.json
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.CustomLINQExtenstionMethod-19\bin\Debug\net8.0\LINQ.CustomLINQExtenstionMethod-19.exe
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.CustomLINQExtenstionMethod-19\bin\Debug\net8.0\LINQ.CustomLINQExtenstionMethod-19.deps.json
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.CustomLINQExtenstionMethod-19\bin\Debug\net8.0\LINQ.CustomLINQExtenstionMethod-19.runtimeconfig.json
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.CustomLINQExtenstionMethod-19\bin\Debug\net8.0\LINQ.CustomLINQExtenstionMethod-19.dll
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.CustomLINQExtenstionMethod-19\bin\Debug\net8.0\LINQ.CustomLINQExtenstionMethod-19.pdb
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.CustomLINQExtenstionMethod-19\obj\Debug\net8.0\LINQ.CustomLINQExtenstionMethod-19.dll
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.CustomLINQExtenstionMethod-19\obj\Debug\net8.0\refint\LINQ.CustomLINQExtenstionMethod-19.dll
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.CustomLINQExtenstionMethod-19\obj\Debug\net8.0\LINQ.CustomLINQExtenstionMethod-19.pdb
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.CustomLINQExtenstionMethod-19\obj\Debug\net8.0\LINQ.CustomLINQExtenstionMethod-19.genruntimeconfig.cache
+D:\Edu\BackEnd\LINQ\LINQ-Practise\LINQ.CustomLINQExtenstionMethod-19\obj\Debug\net8.0\ref\LINQ.CustomLINQExtenstionMethod-19.dll

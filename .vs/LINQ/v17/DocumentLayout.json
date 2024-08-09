@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8274332C-ACA5-4685-9555-8189A273D6CD}|LINQ.ExpressionTrees-16\\LINQ.ExpressionTrees-16.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.expressiontrees-16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8274332C-ACA5-4685-9555-8189A273D6CD}|LINQ.ExpressionTrees-16\\LINQ.ExpressionTrees-16.csproj|solutionrelative:linq.expressiontrees-16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21E6B67B-1439-44ED-A435-8BA96D66AEE5}|LINQ.CustomLINQExtenstionMethod-19\\LINQ.CustomLINQExtenstionMethod-19.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.customlinqextenstionmethod-19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E6B67B-1439-44ED-A435-8BA96D66AEE5}|LINQ.CustomLINQExtenstionMethod-19\\LINQ.CustomLINQExtenstionMethod-19.csproj|solutionrelative:linq.customlinqextenstionmethod-19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E6B67B-1439-44ED-A435-8BA96D66AEE5}|LINQ.CustomLINQExtenstionMethod-19\\LINQ.CustomLINQExtenstionMethod-19.csproj|d:\\edu\\backend\\linq\\linq-practise\\linq.customlinqextenstionmethod-19\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E6B67B-1439-44ED-A435-8BA96D66AEE5}|LINQ.CustomLINQExtenstionMethod-19\\LINQ.CustomLINQExtenstionMethod-19.csproj|solutionrelative:linq.customlinqextenstionmethod-19\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.CustomLINQExtenstionMethod-19\\Extensions.cs",
+              "RelativeDocumentMoniker": "LINQ.CustomLINQExtenstionMethod-19\\Extensions.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.CustomLINQExtenstionMethod-19\\Extensions.cs",
+              "RelativeToolTip": "LINQ.CustomLINQExtenstionMethod-19\\Extensions.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwCgAAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:01:59.357Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.ExpressionTrees-16\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ.ExpressionTrees-16\\Program.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.ExpressionTrees-16\\Program.cs",
-              "RelativeToolTip": "LINQ.ExpressionTrees-16\\Program.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCwAAAAnAAAA",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.CustomLINQExtenstionMethod-19\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ.CustomLINQExtenstionMethod-19\\Program.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\LINQ\\LINQ-Practise\\LINQ.CustomLINQExtenstionMethod-19\\Program.cs",
+              "RelativeToolTip": "LINQ.CustomLINQExtenstionMethod-19\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T20:03:31.384Z",
+              "WhenOpened": "2024-08-09T06:48:03.202Z",
               "EditorCaption": ""
             }
           ]
